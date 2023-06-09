@@ -19,7 +19,8 @@
   height: calc(100vh - 100px); /* Decrease the height by 100px */
   color: #fff;
   min-height: 1000px;
-  background-image: '/bg.png';
+  background-image: url(https://github.com/vavinash992/portofolio_website/blob/main/public/bg.png?raw=true);
+  opacity: 1;
   background-size: cover;
   background-attachment: fixed;
   font-family: 'Ubuntu', sans-serif;
