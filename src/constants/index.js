@@ -47,7 +47,7 @@ export const navLinks = [
   {
     id: 'resume',
     title: 'Resume',
-    url: 'https://web.whatsapp.com/'
+    url: 'https://drive.google.com/file/d/1nQ6wXLsJgzb8yXDQp-4cpF4Z8v_gJLL_/view?usp=sharing'
   }
 ];
 
